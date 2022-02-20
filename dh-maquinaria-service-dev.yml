@@ -2,4 +2,4 @@ server:
   port: ${PORT:8889}
 
 url_dnrpa: https://www.dnrpa.gov.ar/portal_dnrpa
-catalogo_maquina_maximo:650
+catalogo_maquina_maximo: 650
